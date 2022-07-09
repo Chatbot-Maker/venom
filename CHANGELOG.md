@@ -1,3 +1,12 @@
+# [4.2.0-chatbotmaker.0](https://github.com/orkestral/venom/compare/v4.2.0...v4.2.0-chatbotmaker.0) (2022-07-09)
+
+
+### Bug Fixes
+
+* **WAPI:** check number status id ([b36ebee](https://github.com/orkestral/venom/commit/b36ebee072fdf8a63ef8faae24080931f7cabd4a))
+
+
+
 # [4.2.0](https://github.com/orkestral/venom/compare/v4.1.0...v4.2.0) (2022-06-09)
 
 
