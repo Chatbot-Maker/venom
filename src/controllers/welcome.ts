@@ -2,7 +2,7 @@ import * as boxen from 'boxen';
 
 import * as chalk from 'chalk';
 
-const path = require('path');
+import * as path from 'path';
 
 require('dotenv').config({ path: path.resolve(__dirname, '../../.env') });
 
@@ -14,7 +14,7 @@ import { yo } from 'yoo-hoo';
 
 import { defaultLogger as logger } from '../utils/logger';
 import { upToDate } from '../utils/semver';
-const { version } = require('../../package.json');
+import { version } from '../../package.json';
 
 // Global
 let welcomeShown = false;

@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.checkUpdates = exports.welcomeScreen = exports.BRAND = void 0;
 const boxen = require("boxen");
 const chalk = require("chalk");
-const path = require('path');
+const path = require("path");
 require('dotenv').config({ path: path.resolve(__dirname, '../../.env') });
 exports.BRAND = process.env.NAME;
 const latest_version_1 = require("latest-version");
