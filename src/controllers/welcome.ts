@@ -14,7 +14,7 @@ import { yo } from 'yoo-hoo';
 
 import { defaultLogger as logger } from '../utils/logger';
 import { upToDate } from '../utils/semver';
-import { version } from '../../package.json';
+const { version } = require('../../package.json');
 
 // Global
 let welcomeShown = false;
