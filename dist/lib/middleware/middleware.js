@@ -1,1 +1,0 @@
-(()=>{var n;!function(n){n.OnMessage="onMessage",n.OnAck="onAck",n.OnParticipantsChanged="onParticipantsChanged"}(n||(n={})),window.WAPI.waitNewMessages(!1,(e=>{e.forEach((e=>{window[n.OnMessage](e)}))})),window.WAPI.waitNewAcknowledgements((function(e){window[n.OnAck]&&window[n.OnAck](e)}))})();
