@@ -1,3 +1,7 @@
+## [4.2.1-chatbotmaker](https://github.com/Chatbot-Maker/venom/compare/v4.2.0-chatbotmaker.0...v4.2.1-chatbotmaker) (2022-07-10)
+
+
+
 # [4.2.0-chatbotmaker.0](https://github.com/orkestral/venom/compare/v4.2.0...v4.2.0-chatbotmaker.0) (2022-07-09)
 
 
