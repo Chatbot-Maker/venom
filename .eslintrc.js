@@ -27,10 +27,7 @@ module.exports = {
     'no-empty': ['error', { allowEmptyCatch: true }],
     'no-useless-catch': 'off',
     'no-useless-escape': 'off',
-    'prefer-const': 'off',
-    "convert-commonjs-to-esm/require": "on",
-    "convert-commonjs-to-esm/exports": "on",
-    "convert-commonjs-to-esm/commons": "on"
+    'prefer-const': 'off'
   },
   overrides: [
     {
